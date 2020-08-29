@@ -1,0 +1,3 @@
+# 사이킷런_학습데이터와 테스트데이터 세트 분리 - train_test_split()
+
+## Editing soon.......
