@@ -1,0 +1,3 @@
+# 평가_오차행렬(Confusion Matrix), 정확도, 정밀도와 재현율, F1 스코어, ROC곡선, ROC AUC, 임계치
+
+## Editing soon.......
