@@ -1,0 +1,3 @@
+# 판다스_결손데이터NaN처리_Apply lambda사용데이터가공(if,elif,get_category)
+
+## Editing soon.......
