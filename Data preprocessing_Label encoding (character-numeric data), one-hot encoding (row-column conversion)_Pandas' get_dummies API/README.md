@@ -1,0 +1,3 @@
+# 데이터전처리_Label인코딩(문자-숫자데이터), 원-핫 인코딩(행-열변환 및 1 고유값)_Pandas의 get_dummies API
+
+## Editing soon.......
