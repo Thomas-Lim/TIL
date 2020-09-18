@@ -1,0 +1,3 @@
+# 분류_결정트리실습_'max_depth'별 정확도변화 확인_사용자 행동 인식 데이터 세트기반_행동예측_GridSearchCV
+
+## Editing soon.......
