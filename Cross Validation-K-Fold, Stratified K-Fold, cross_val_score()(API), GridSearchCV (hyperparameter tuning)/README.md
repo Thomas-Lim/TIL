@@ -1,0 +1,3 @@
+# 교차검증 - K-Fold, Stratified K-Fold, cross_val_score()(API), GridSearchCV(하이퍼파라미터 튜닝)_검증정확도
+
+## Editing soon.......
