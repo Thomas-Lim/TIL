@@ -1,0 +1,3 @@
+# Oversampling(SMOTE),데이터카피드롭, 정규분포변환,이상치제거,LGBM,LR
+
+## Editing soon.......
