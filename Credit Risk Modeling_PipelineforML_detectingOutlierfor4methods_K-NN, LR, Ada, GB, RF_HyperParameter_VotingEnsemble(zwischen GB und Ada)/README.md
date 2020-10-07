@@ -1,0 +1,3 @@
+# 신용위험모델링_PipelineforML_detectingOutlierfor4methods_K-NN, LR, Ada, GB, RF_HyperParameter_VotingEnsemble(zwischen GB und Ada)
+
+## Editing soon.......
