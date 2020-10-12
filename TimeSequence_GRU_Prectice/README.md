@@ -1,0 +1,3 @@
+# TimeSequence_GRU_Prectice
+
+## Editing soon.......
