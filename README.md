@@ -1,6 +1,6 @@
 # { SIMPLE SUMMARY }
 
-1.	머신러닝은 Cost가 가장 낮을 떄의 Weight를 찾아가는 과정이다. Weight는 모델의 복잡도이다.
+1.	머신러닝은 Cost가 가장 낮을 때의 Weight를 찾아가는 과정이다. Weight는 모델의 복잡도이다.
 2.	SGD, Adam, RMSprop등등 최적화의 가장 기초단계는 1번과 같으며, Hypothesis가 복잡할수록 Cost 함수가 복잡해져 Local Minimum 문제의 우려가 커진다.
 3.	예측을 잘 한다는 것은 Trainset에 대한 타겟이 무엇인지를 잘 맞추겠다는 의미
 4.	Cost의 Gradient는 Weight가 증가할 때 Cost가 어떻게 변화하는지 설명하는 수치.
