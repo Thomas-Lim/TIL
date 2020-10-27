@@ -1,0 +1,3 @@
+# [Tensorflow 1.x] MNIST_RNN
+
+## Editing soon.......
