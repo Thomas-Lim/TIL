@@ -1,0 +1,3 @@
+# [Tensorflow 1.x] RNN_3글자만 주고 다음 단어 예측하기
+
+## Editing soon.......
