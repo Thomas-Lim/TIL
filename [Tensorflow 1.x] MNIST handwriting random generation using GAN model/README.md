@@ -1,0 +1,3 @@
+# [Tensorflow 1.x] GAN 모델 이용해서 MNIST 손글씨 무작위 생성
+
+## Editing soon.......
