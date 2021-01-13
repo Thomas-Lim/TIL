@@ -3,16 +3,17 @@ import java.util.Scanner;
 public class whileExam {
 
 	public static void main(String[] args) {
+		
 		// TODO Auto-generated method stub
-		// Scanner´Â ¼ıÀÚ³ª ¹®ÀÚ µîÀ» ÀÔ·Â¹ŞÀ» ¼ö ÀÖµµ·Ï ÇÔ
+		// ScannerëŠ” ìˆ«ìë‚˜ ë¬¸ì ë“±ì„ ì…ë ¥ë°›ì„ ìˆ˜ ìˆë„ë¡ í•¨
 		Scanner sc = new Scanner(System.in);  
 		
-		int i = sc.nextInt(); // º¯¼ö.nextInt(); ·Î ¼ıÀÚ°ª ÀÔ·Â °¡´É
+		int i = sc.nextInt(); // ë³€ìˆ˜.nextInt(); ë¡œ ìˆ«ìê°’ ì…ë ¥ ê°€ëŠ¥
 		
-		// int i = 0;         // 0À¸·Î ½ÃÀÛ
-		while(i<10) {      // 10º¸´Ù ÀÛÀ» ¶§ ±îÁö ³Ö°í
-			System.out.println(i);   //10º¸´Ù ÀÛÀ» ‹š ±îÁö ÇÏ³ª¾¿ Ãâ·ÂÇÔ.
-			i++;          // ±×¸®°í Áõ°¡
+		// int i = 0;         // 0ìœ¼ë¡œ ì‹œì‘
+		while(i<10) {      // 10ë³´ë‹¤ ì‘ì„ ë•Œ ê¹Œì§€ ë„£ê³ 
+			System.out.println(i);   //10ë³´ë‹¤ ì‘ì„ Â‹Âš ê¹Œì§€ í•˜ë‚˜ì”© ì¶œë ¥í•¨.
+			i++;          // ê·¸ë¦¬ê³  ì¦ê°€
 		}
 	}
 
