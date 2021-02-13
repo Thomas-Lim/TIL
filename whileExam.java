@@ -9,7 +9,6 @@ public class whileExam {
 		Scanner sc = new Scanner(System.in);  
 		
 		int i = sc.nextInt(); // 변수.nextInt(); 로 숫자값 입력 가능
-		
 		// int i = 0;         // 0으로 시작
 		while(i<10) {      // 10보다 작을 때 까지 넣고
 			System.out.println(i);   //10보다 작을  까지 하나씩 출력함.
