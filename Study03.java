@@ -1,15 +1,12 @@
 /* if, else, else if 사용
  * 이에 다른 중괄호 사용
- * 그리고 and &&, or || 연산자 사용
- */
-
+ * 그리고 and &&, or || 연산자 사용 */
 
 public class Study03 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String aa = "잘생겻다";
-		
 		
 		if(aa == "못생겼다") { // 만약에 () 라면 중괄호 {} 내부를 실행
 			System.out.print("정답입니다");
